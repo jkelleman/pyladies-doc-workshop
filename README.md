@@ -1,4 +1,10 @@
+<p align="center"><img src="assets/banner.png" alt="Write docs people actually read: a README outline for the Boston PyLadies documentation workshop."></p>
+
 # pyladies-doc-workshop
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Boston PyLadies](https://img.shields.io/badge/community-Boston%20PyLadies-7a4fd6.svg)](#pyladies-doc-workshop)
+[![Workshop template](https://img.shields.io/badge/type-workshop%20template-555.svg)](invitation)
 Boston PyLadies Documentation Workshop
 
 A beginner-friendly template for running documentation workshops. Includes guides for setting up a Python project, creating virtual environments, and writing clear, helpful documentation. Perfect for community events, onboarding, or open source sprints.
